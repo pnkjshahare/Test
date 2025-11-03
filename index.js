@@ -4,4 +4,3 @@ function add(a, b)
 
 console.log(add(4, 5));
 
-donsole'sdcSDC.SCBisucn
