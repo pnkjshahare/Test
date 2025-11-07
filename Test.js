@@ -7,4 +7,6 @@ function add(a, b) {
 console.log(add(4, 5));
 
 
-cosnole.log("pankaj")
+cosnole.log("pankaj");
+
+log("pdemonk")
