@@ -1,3 +1,1 @@
-// add.js
-j");
-  pankaj shahare
+console.log("pankaj");
