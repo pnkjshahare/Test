@@ -10,3 +10,8 @@ function test1() {
   a + b + c;
   return Ab;
 }
+
+function test1() {
+  a + b + c;
+  return Ab;
+}
