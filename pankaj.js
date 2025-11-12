@@ -4,5 +4,6 @@ function p() {
 
 
 
-log("pddcSMCsd");
-console...
+function ()=>{
+  return a+b+c;
+}
